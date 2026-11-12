@@ -1,0 +1,11 @@
+# Fail tempatan, arkib dan sumber asal tidak termasuk dalam GitHub.
+.openai/
+Rujukan/
+node_modules/
+.env
+.env.*
+*.pdf
+*.tar.gz
+*.zip
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+/assets/documents/*
+  Cache-Control: private, no-store, max-age=0
+  X-Robots-Tag: noindex, noimageindex, noarchive
+  X-Content-Type-Options: nosniff
+/*
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Content-Type-Options: nosniff
